@@ -188,20 +188,20 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootstrap-sass
+  bootstrap-sass (~> 3.2.0.0)
   byebug
   coffee-rails (~> 4.1.0)
-  devise
+  devise (~> 3.5.2)
   jbuilder (~> 2.0)
   jquery-rails
-  paperclip
+  paperclip (~> 4.3.0)
   pg
   puma
   rails (= 4.2.3)
   rails_12factor
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
-  searchkick
+  searchkick (~> 1.0.2)
   spring
   sqlite3
   turbolinks
